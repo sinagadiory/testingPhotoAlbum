@@ -6,6 +6,7 @@
       JWT_SECRET=isi secret key
     ```
 3. Ganti `username`, `password`, dan lain-lain pada `config/config.json`
+
     ``` json
       "test": {
       "username": "username anda",
